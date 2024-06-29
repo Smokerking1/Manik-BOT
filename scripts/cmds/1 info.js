@@ -6,7 +6,7 @@ module.exports = {
     name: "info",
     aliases: ["inf", "in4"],
     version: "2.0",
-    author: "MR.SANY",
+    author: "MD.MANIK KHAN",
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -35,10 +35,10 @@ module.exports = {
   },
 
   sendInfo: async function (message) {
-    const botName = "♡︎FARIYA BABY♡︎";
+    const botName = "♡︎SMOKER🚭KING♡︎";
     const botPrefix = "-";
-    const authorName = "MR.SANY";
-    const authorFB = "https://www.facebook.com/profile.php?id=100057678948022";
+    const authorName = "MD.MANIK KHAN";
+    const authorFB = "https://www.facebook.com/profile.php?id=61552104539022";
     const authorInsta = "secret";
     const status = "𝗣𝘂𝗿𝗲 𝗦𝗶𝗻𝗴𝗹𝗲";
 
