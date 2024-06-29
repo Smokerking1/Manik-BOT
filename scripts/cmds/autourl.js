@@ -9,7 +9,7 @@ module.exports = {
   config: {
     name: 'autourl',
     version: '1.0',
-    author: 'MR.AYAN',
+    author: 'MD.MANIK KHAN',
     countDown: 5,
     role: 0,
     shortDescription: 'Auto video downloader for Instagram, Facebook, and TikTok',
