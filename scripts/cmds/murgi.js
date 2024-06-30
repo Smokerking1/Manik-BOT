@@ -1,11 +1,11 @@
 module.exports = {
 	config: {
-		name: "war",
-    aliases: ["war"],
+		name: "murgi",
+    aliases: ["murgi"],
 		version: "1.0",
-		author:"nihan",
+		author:"manik",
 		role: 2,
-		category: "War",
+		category: "murgi",
     shortDescription: "nothing",
 		longDescription: "",
 		guide: {
@@ -16,7 +16,7 @@ module.exports = {
   
   onStart: async function ({ api, event, userData, args }) {
       var mention = Object.keys(event.mentions)[0];
-    if(!mention) return api.sendMessage("গুরু খানকিরপুলারে একটা মেনশন দেন-!!🫂", event.threadID);
+    if(!mention) return api.sendMessage("মানিক ভাই খানকিরপুলারে একটা মেনশন দেন-!!🫂", event.threadID);
  let name =  event.mentions[mention];
     var arraytag = []; 
         arraytag.push({id: mention, tag: name});
