@@ -13,26 +13,26 @@ module.exports = {
 
   onStart: async function ({ api, event, userData, args }) {
       var mention = Object.keys(event.mentions)[0];
-    if(!mention) return api.sendMessage("Need to tag 1 friend whome you want to scold with bad words", event.threadID);
+    if(!mention) return api.sendMessage("মানিক ভাই খানকি মাগিরে একটা মেনশন দেন-!!🫂", event.threadID);
  let name =  event.mentions[mention];
     var arraytag = []; 
         arraytag.push({id: mention, tag: name});
     var a = function (a) { api.sendMessage(a, event.threadID); }
-setTimeout(() => {a({body: "RANDIKO CHOKTAA MUJII RAUTEE KHATE KO XORO AMA CHIKWAA MUJI " + " " + name, mentions: arraytag})}, 3000);
-setTimeout(() => {a({body: "LADOOO LES TAT TC TAUKEE SALLAA XKKKAAA TEORO PUTI MA MERO NAM LEKHXU ABAA😭💋" + " " + name, mentions: arraytag})}, 5000);
-setTimeout(() => {a({body: "TEORO AMA KO PUTI MA DAHI HALERW LYAAMM LYAM CHIKAMAMMM BHNNTW🤠❤" + " " + name, mentions: arraytag})}, 7000);
-setTimeout(() => {a({body: "TERII AMA KO KALO PUTII MA LYAMMMA LYAMMA CHKAMM MUJII THUKK LAII LAII MADRCHOOOD BESYYA AMA KO XORO" + " " + name, mentions: arraytag})}, 9000);
-setTimeout(() => {a({body: "TEORO AMAA LAAII KOPCHI MAA LAGERW CHIKAAMM RANNDDII MAKAA BAXHHA😭💋" + " " + name, mentions: arraytag})}, 12000);
-setTimeout(() => {a({body: "TERO AAMA LAAII MERO LADO MAA BASAII NEPAALL GHUMAUXXUU RANNDDI MAA KAA BXHHAA😭" + " " + name, mentions: arraytag})}, 14000);
-setTimeout(() => {a({body: "TEERII MAA KI CHUTT PAKAR K RODDD DALDUU BEHENCHODDD SALA NALAYKK BACHHA ANPADDD MUJIII" + " " + name, mentions: arraytag})}, 16000);
-setTimeout(() => {a({body: "TEROO AMAA KO KALO PUTII MA SARAF HAALI GORO BANA JAA XORO 🤠❤" + " " + name, mentions: arraytag})}, 18000);
-setTimeout(() => {a({body: "TRII BEHN KI KALII CHUTT UMMAHH MADRCHOOOD EXYY  PJUTII TERIII BAINIKO RATOO RATOO CHIKI CHIKI LYAMMA LYMMA" + " " + name, mentions: arraytag})}, 20000);
-setTimeout(() => {a({body: "TEOROO AMAA KO PUTTII MAA COKEE HAALII BDAYY PARTY MANAAMAM MEROOLADO KO😭💋" + " " + name, mentions: arraytag})}, 22000);
-setTimeout(() => {a({body: "MEROO LADOO DHOGNNAA AIJAA SALALA XKK KO BXHHHA RNNDII KO BAXHHAA😭💋" + " " + name, mentions: arraytag})}, 2400);
-setTimeout(() => {a({body: "TERII BAHINILAII MEROO LADOO MA JHUNDAYE MARDENXUU SALA DAMAII KO BACHHA HAKKK THUUU HAHAHAHAHA" + " " + name, mentions: arraytag})}, 26000);
-setTimeout(() => {a({body: "HAKKK THUUU MUJIIII VAGGG SALA ABAUU ANGAA BOLNEE AUKAAT BANA PAHELE ANI AIJNAAA ALA RAUTE KO BACHHHA KHIKHIHKHI" + " " + name, mentions: arraytag})}, 28000);
-setTimeout(() => {a({body: "MEROO LAODO LE HAANI TEORO KHAANNDANN DAFANN HAANNDDIMM FUCHEHEEE😭💋" + " " + name, mentions: arraytag})}, 30000);
-setTimeout(() => {a({body: "MEROO LADOO KO JHATTAROO HANEE TERIII AMA KO TAUKOO FUTALXUU RANDIKO BANN HAHHAHA " + " " + name, mentions: arraytag})}, 32000);
+setTimeout(() => {a({body: "চুদা লো খানকি মাগি😴📣 " + " " + name, mentions: arraytag})}, 3000);
+setTimeout(() => {a({body: "তোর বেগুন মারা মাগির মারে চুদি খানকি মাগি💋" + " " + name, mentions: arraytag})}, 5000);
+setTimeout(() => {a({body: "ভারচুয়ালের ভুদা কালা মাগি মানিকের সাথে হাতমার তোরে টাকা দিমু🤠❤" + " " + name, mentions: arraytag})}, 7000);
+setTimeout(() => {a({body: "তোর হাতমারা মাগির মারে চুদি বান্দি মাগি😴মানিকের নুনুটা চুষেদে😋" + " " + name, mentions: arraytag})}, 9000);
+setTimeout(() => {a({body: "অই চুদানি মাগি চুইদা চুইদা ভাংমু তোর মার ভুদার টাইংকি💋" + " " + name, mentions: arraytag})}, 12000);
+setTimeout(() => {a({body: "সুনলাম তুই নাকি ভারচুয়ালের টপ হাতমারা মাগি তোর মারে চুইদা চুইদা বানামু অনলাইনে গাধি☺️" + " " + name, mentions: arraytag})}, 14000);
+setTimeout(() => {a({body: "তুই নাকি অনলাইনের হাতমারা মাল🤨তোর মারে চুইদা তোর মার ভুদাটা বানামু খাল🫠খালে ছারমু মাছ🫡তোর মারে চুদবো মানিক সব্দ হইবো টপাস টপাস🤣📣" + " " + name, mentions: arraytag})}, 16000);
+setTimeout(() => {a({body: "মানিক নাকি ভারচুয়াল জগতের রাজা😚তোর মার নাভিতে জালায়া খামু আমি গাজা😋গাজা খাইলে হয়নাকি নেশা😵‍💫" + " " + name, mentions: arraytag})}, 18000);
+setTimeout(() => {a({body: "তোর মতো পতিতা মাগিরে চুদাই আমার পেশা🤫" + " " + name, mentions: arraytag})}, 20000);
+setTimeout(() => {a({body: "অই চুদানি মাগি,কথা কবি কম কম তোর মার ভুদায় লাগামু আমি আইটেম বম,বম জাইবোনাকি ফাইটা💣তোর মারে চুদমু হাইটা হাইটা🚶‍♂️🚶‍♂️🚶‍♂️" + " " + name, mentions: arraytag})}, 22000);
+setTimeout(() => {a({body: "অই চুদানি মাগি,আমি গালি পারিনা গালি গেছি ভুইলা🤦‍♂️তোর মারে চুদি জামা কাপোর খুইলা💋" + " " + name, mentions: arraytag})}, 2400);
+setTimeout(() => {a({body: "তুইনাকি অনলাইন জগতের পতিতা,তোর মারে চুইদা তোর মার ভুদায় দিমু আমি মুইতা😝" + " " + name, mentions: arraytag})}, 26000);
+setTimeout(() => {a({body: "মানিক তোর রিয়েল বাপ লাগে চুদানি মাগি🙃" + " " + name, mentions: arraytag})}, 28000);
+setTimeout(() => {a({body: "মানিক রে ভিডিও কল দিয়া হাতমার মাগি তোরে সাপরট দিমু 🤭" + " " + name, mentions: arraytag})}, 30000);
+setTimeout(() => {a({body: "অই বস্তির মাগি 1টাকার কালা ভুদা নিয়া নিজেরে fmz দাবি করস🤔তোর পতিতার মারে চুদি😚☺️" + " " + name, mentions: arraytag})}, 32000);
 setTimeout(() => {a({body: "TEROO NIDHARR MAA MEROOLAODO KO JHATAROO HAANI CHAAPP BASAUXUU😭💋" + " " + name, mentions: arraytag})}, 65000);
 setTimeout(() => {a({body: "LADOOOMA KISS HANN FUVCHHHEE RANDIKO XORO " + " " + name, mentions: arraytag})}, 34000);
 setTimeout(() => {a({body: "TERROO AMA KO PUTI MA LAGAII TORI KO TELL CHIKI CHIKI GRDINXXUU PUTI TROO AMA KO FAILLL🤠❤" + " " + name, mentions: arraytag})}, 36000);
