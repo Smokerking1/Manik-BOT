@@ -2,7 +2,7 @@ module.exports = {
     config: {
         name: "bot",
         version: "1.0",
-        author: "MR.AYAN",//**original anthor fb I'd : https://m.me/MR.AYAN.2X **//
+        author: "MD.MANIK KHAN",//**original anthor fb I'd : https://m.me/MR.AYAN.2X **//
         countDown: 5,
         role: 0,
         shortDescription: "No Prefix",
@@ -15,6 +15,6 @@ onChat: async function({
     message,
     getLang
 }) {
-    if (event.body && event.body.toLowerCase() == "bot") return message.reply("Ami bot na amr name mira-!!😑");
+    if (event.body && event.body.toLowerCase() == "bot") return message.reply("তোর নানির সাউয়া!!😑");
 }
 }; 
