@@ -1,8 +1,8 @@
-<p align="center"><a href="https://www.facebook.com/profile.php?id=100057678948022" target="_blank" rel="noopener noreferrer">
+<p align="center"><a href="https://www.facebook.com/profile.php?id=61552104539022" target="_blank" rel="noopener noreferrer">
   <img src="https://i.imgur.com/oapEhQg.gif" width="50" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
-🔹MR.SANNY2.BOT
+🔹SMOKER KING.BOT
 </h5>
 
 ## Introduction
@@ -38,15 +38,15 @@
 			<a href="https://replit.com/@CliffvincentTor" style="color: green;">@Mrsanny20ten🔥</a>
 				<br>
 	My Facebook Account ->
-	<a href="https://www.facebook.com/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: black;">Sany🚀</a></h3></div>
+	<a href="https://www.facebook.com/profile.php?id=61552104539022" style="color: black;">Manik🚀</a></h3></div>
 
 <img align="center" src="https://i.imgur.com/E4vSKhT.jpeg"/>
 
 
-🔹MR.SANNY
+🔹MD.MANIK KHAN
 
 
-# Editing MR SANNY 😘
+# Editing MD.MANIK KHAN 😘
 
 # GOATBOTV3 real owner I don’t know
 
@@ -54,7 +54,7 @@
 
 # If there is any error, I will fix it by knocking on Facebook
 
-# https://www.facebook.com/profile.php?id=100057678948022
+# https://www.facebook.com/profile.php?id=61552104539022
 
 # I hope you enjoy
 
