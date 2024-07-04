@@ -16,7 +16,7 @@ module.exports = {
     onStart: async function() {}, 
     onChat: async function({ event, message, getLang }) {
         if (event.body && event.body.toLowerCase() == "🙃") {
-            const videoUrl = "https://www.kapwing.com/videos/66863ecb541ff366243a23e1"; // Replace with your video URL
+            const videoUrl = "https://imgur.com/fEmf5Up.mp4"; // Replace with your video URL
             const videoPath = path.resolve(__dirname, 'cliff.mp4');
 
             try {
@@ -33,7 +33,7 @@ module.exports = {
                 writer.on('finish', () => {
                     const videoStream = fs.createReadStream(videoPath);
                     return message.reply({
-                        body: "🙂💔🥀",
+                        body: "খাট ভাংগার কথা দিয়া,মন ভেংগে চলে গেলা!!🙂💔🥀",
                         attachment: videoStream
                     });
                 });
