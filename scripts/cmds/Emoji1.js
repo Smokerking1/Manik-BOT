@@ -16,7 +16,7 @@ module.exports = {
     onStart: async function() {}, 
     onChat: async function({ event, message, getLang }) {
         if (event.body && event.body.toLowerCase() == "🙃") {
-            const videoUrl = "https://imgur.com/a/6Z2vqVr"; // Replace with your video URL
+            const videoUrl = "https://imgur.com/fEmf5Up"; // Replace with your video URL
             const videoPath = path.resolve(__dirname, 'cliff.mp4');
 
             try {
