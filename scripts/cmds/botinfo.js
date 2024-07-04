@@ -11,8 +11,8 @@ const exec = util.promisify(require('child_process').exec);
 module.exports = {
   config: {
     name: "botinfo",
-    aliases: ["botinf", "infobot", "binfo"],
-    author: "MR.AYAN",
+    aliases: ["botinfo", "infobot", "binfo"],
+    author: "MD.MANIK KHAN",
     version: "2.0",
     cooldowns: 0,
     role: 0,
