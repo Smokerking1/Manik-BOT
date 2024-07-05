@@ -23,7 +23,7 @@ module.exports = {
 		const qs = require('querystring');
 		const apikey = globalGoat.configCommands.envGlobal["tts-zalo"];
 
-		let content = (event.type == "message_reply") ? event.messageReply.body : args.join(" ");
+		let content = (event.type == "message_reply") ? event.messageReply.body : args.join("🥺");
 		if (!content) return api.sendMessage("Vui lòng nhập một đoạn văn bản hoặc reply một tin nhắn!", event.threadID, event.messageID);
 
 		const url = "https://api.zalo.ai/v1/tts/synthesize";
